@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently undertaking my summer internship at MaibornWolff.<br>👯 I’m looking to collaborate on more open source projects.<br>🤝 I’m looking for help with RxJS.<br>🌱 I’m currently learning NextJs.<br>
+👯 I’m looking to collaborate on more open source projects.<br>🤝 I’m looking for help with RxJS.<br>🌱 I’m currently learning NextJs.<br>
 
 
 ## 🌐 Socials:
